@@ -15,5 +15,3 @@ The script will output:
 
 - A **graph** showing true, observed, and corrected returns.
 - A **summary table** with bias corrections applied.
-
-## Example Output
